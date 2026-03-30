@@ -408,7 +408,7 @@ a {
 .footer {
   background: #ffffff;
   border-top: 1px solid #e4e7f2;
-  padding: 1.25rem 0;
+  padding: 1rem 0;
 }
 
 .footer-grid {
@@ -416,7 +416,6 @@ a {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0.75rem;
 }
 
 .fade-up {
@@ -476,4 +475,8 @@ a {
   .hero-image {
     min-height: 280px;
   }
+}
+
+.satin{
+  width:3vw;
 }
