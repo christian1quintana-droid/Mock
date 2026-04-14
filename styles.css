@@ -485,3 +485,33 @@ a {
 img{
   border-radius:10%;
 }
+
+.bigT{
+  font-size: 3vw;
+}
+
+.project-tile article{
+  display:flex;
+  width:60vw;
+  margin:0 auto;
+}
+
+.project-tile .left{
+  margin-right:auto;
+  padding-left:10px;
+
+}
+
+.project-tile .right{
+  margin-left:auto;
+  
+}
+
+#gooners{
+  text-align:center;
+  font-size:5vw;
+}
+
+.insights-tab{
+  display:flex;
+}
